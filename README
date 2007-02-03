@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1792
+
+ERM is a script language, the design is similar to most assembler language such as ARM assembler. 
+
+But the source code is extremely difficult to read without syntax highlight due to it's obfuscated syntax.
+
+Now you can edit ERM in Vim, bear in mind that ERM script must always be saved in Unix format even in MacOS and Windows. If anything does go wrong, open the script in ERM_S and save it.
+
+Enjoy!
